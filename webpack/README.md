@@ -1,5 +1,25 @@
 # Webpack
 
+An example implementation is below.
+```console
+webpack-demo
+  |- /dist
+    |- main.js
+    |- main.css
+    |- index.html
+  |- /src
+    |- /static
+      |- style.css
+      |- index.html
+    |- index.js
++ |- webpack.common.js
++ |- webpack.dev.js
++ |- webpack.prod.js
+  |- package.json
+```
+
+## Getting Started
+
 Initialize node project
 
 ```console
