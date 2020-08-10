@@ -1,7 +1,8 @@
 # Webpack
 
 An example implementation is below.
-```console
+
+```r
 webpack-demo
   |- /dist
     |- main.js
